@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "172650988132",
+    "project_id": "divegram-2257c",
+    "storage_bucket": "divegram-2257c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172650988132:android:c63f32286a5d164641d571",
+        "android_client_info": {
+          "package_name": "com.devegram.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172650988132-4qglvhksui1dff32udg8f7ehhoqt4nqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMMZz5lwNG6q0teb_f6Xm3iF93ltA_zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172650988132-4qglvhksui1dff32udg8f7ehhoqt4nqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172650988132:android:aad34b1113a57f8f41d571",
+        "android_client_info": {
+          "package_name": "com.divegram.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172650988132-4qglvhksui1dff32udg8f7ehhoqt4nqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMMZz5lwNG6q0teb_f6Xm3iF93ltA_zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172650988132-4qglvhksui1dff32udg8f7ehhoqt4nqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
