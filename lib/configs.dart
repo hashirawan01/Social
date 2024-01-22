@@ -4,7 +4,7 @@ import 'package:country_picker/country_picker.dart';
 const APP_NAME = "divegram";
 
 /// App Icon src
-const APP_ICON = "assets/app_icon.png";
+const   APP_ICON = "assets/logo.png";
 
 /// Splash screen image src
 const SPLASH_SCREEN_IMAGE = 'assets/images/splash_image.png';

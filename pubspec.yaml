@@ -82,6 +82,7 @@ dependencies:
   # Agora
   agora_rtc_engine: ^5.2.0
   permission_handler: ^10.2.0
+  flutter_launcher_icons: ^0.13.1
 
   flutter_localizations:
     sdk: flutter
@@ -93,8 +94,11 @@ dev_dependencies:
   build_runner: ^2.4.6
   mobx_codegen: ^2.4.0
   #flutter packages pub run build_runner build --delete-conflicting-outputs
-
-
+flutter_icons:
+  image_path_android: "assets/app_icon.png"
+  image_path_ios: "assets/app_icon.png"
+  android: true
+  ios: true
 flutter:
   uses-material-design: true
 
